@@ -5,6 +5,5 @@ A full stack taking notes app with authentication system and markdown support, c
 ## Gallery:
 https://imgur.com/a/VAM1n0Y
 
-
 ## Live Demo:
 https://notella.vercel.app/
